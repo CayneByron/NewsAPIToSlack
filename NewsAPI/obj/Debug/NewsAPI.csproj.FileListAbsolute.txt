@@ -1,0 +1,12 @@
+C:\Users\Cayne\AppData\Local\Temporary Projects\NewsAPI\obj\Debug\NewsAPI.csprojAssemblyReference.cache
+C:\Users\Cayne\AppData\Local\Temporary Projects\NewsAPI\obj\Debug\NewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\bin\Debug\NewsAPI.exe.config
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\bin\Debug\NewsAPI.exe
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\bin\Debug\NewsAPI.pdb
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\obj\Debug\NewsAPI.csprojAssemblyReference.cache
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\obj\Debug\NewsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\obj\Debug\NewsAPI.csproj.CopyComplete
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\obj\Debug\NewsAPI.exe
+C:\Users\Cayne\source\repos\NewsAPI\NewsAPI\obj\Debug\NewsAPI.pdb
